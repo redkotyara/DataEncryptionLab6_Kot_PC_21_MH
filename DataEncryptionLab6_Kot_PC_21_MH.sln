@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEncryptionLab6_Kot_PC_21_MH", "DataEncryptionLab6_Kot_PC_21_MH\DataEncryptionLab6_Kot_PC_21_MH.csproj", "{B31A5476-D565-4FC9-92B0-5CA40AD0F134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31A5476-D565-4FC9-92B0-5CA40AD0F134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31A5476-D565-4FC9-92B0-5CA40AD0F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31A5476-D565-4FC9-92B0-5CA40AD0F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31A5476-D565-4FC9-92B0-5CA40AD0F134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
